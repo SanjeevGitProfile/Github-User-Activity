@@ -3,6 +3,5 @@ Android application retrieves Github user profiles and repositories based on use
 
 The response from the server will be a JSON file which is processed to get desired values. The data obtained is presented beautifully in android cards and pop ups.
 
-There are two versions for the app.
 (1) Github User Activity - This is the project holds the above functionalities in which the application activity will flow sequentially.
 (2) Github Profile Viewer - This version is same as the previous one but this one makes the search activity as a dialog to float on the screen.
